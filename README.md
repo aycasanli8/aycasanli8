@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aycasanli8/threat-hunting-scenario-tor/tree/main)**
+- **[Threat Hunting Scenario (Community-Threat-Hunt-Nov-2025-Cyber-Range)](https://github.com/aycasanli8/Threat-Hunt-Nov-2025-Cyber-Range))**
 
 <hr/>
 
